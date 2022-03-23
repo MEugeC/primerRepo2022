@@ -2,7 +2,7 @@
 ## _Laboratorio Computacion II_
 ##### Ing. Castagnola Maria Eugenia
 
-## Práctico A2
+## Práctico B
 
 * Sistemas Operativos
 * Herramientas de desarrollo 
